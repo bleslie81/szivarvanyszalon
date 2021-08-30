@@ -1,2 +1,0 @@
-# rainbow
- Szivárvány Szalon weboldal
